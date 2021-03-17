@@ -4,7 +4,7 @@ An ecommerce-demo with product page and cart
 ## Mohammad Wahidur Rahman
 ###### e-mail: md.wahidovi@gmail.com
 **SimpliLearn PG FSD JAVA** 
-## Sprint - [Trello](https://trello.com/b/dRgT70GB)
+## Sprint - [Trello](https://trello.com/b/oaydGMlX)
 
 # A simple e-commerce demo where admin can add product and view cart  
 
