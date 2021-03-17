@@ -19,6 +19,6 @@ An ecommerce-demo with product page and cart
 #Quick note: 
  * Build this project for maven dependencies
  * In your M2 repository find out lombok jar (.m2\repository\org\projectlombok\lombok\)
- * double click on that jar, Follow the instruction in lombok UI
+ * double click on that jar, Follow the instruction in lombok UI to  install it to your IDE
  * Maven->Update Project
  * then run this project
